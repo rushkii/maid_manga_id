@@ -4,7 +4,7 @@ You can contact me on [LINE](https://line.me/ti/p/~your.bae_).
 
 ### Instalation
 ```sh
-$ pip install --upgrade maid_manga_id
+$ pip install maid_manga_id --upgrade
 ```
 or
 ```sh
