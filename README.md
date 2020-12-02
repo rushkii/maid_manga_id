@@ -1,11 +1,15 @@
-# Maid Manga ID
+# Maid Manga ID API
 Maid Manga Indonesia API Using Python Web Scraper.
 You can contact me on [LINE](https://line.me/ti/p/~your.bae_).
 
 ### Instalation
-cd maid_manga_id
-pip3 install --upgrade maid_manga_id or pip install --upgrade maid_manga_id
-
+```sh
+$ pip install --upgrade maid_manga_id
+```
+or
+```sh
+$ python setup.py install
+```
 ### Features
 - Get Manga Full Info
 - Get Chapter Image Page
