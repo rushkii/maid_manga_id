@@ -1,4 +1,4 @@
-# NHentai API
+# Maid Manga ID
 Maid Manga Indonesia API Using Python Web Scraper.
 You can contact me on [LINE](https://line.me/ti/p/~your.bae_).
 
