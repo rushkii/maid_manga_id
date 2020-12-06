@@ -11,6 +11,8 @@ or
 $ python setup.py install
 ```
 ### Features
+- Search
+- Top Manga based-on genres
 - Get Manga Full Info
 - Get Chapter Image Page
 - and more.
