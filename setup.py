@@ -21,7 +21,7 @@ setup(
     keywords='manga maid_manga maid_manga_id manga_id',
     license='MIT',
     packages=['maid_manga'],
-    install_requires=['requests', 'bs4', 'lxml'],
+    install_requires=['requests', 'bs4', 'lxml', 'urllib', 're'],
     include_package_data=True,
     zip_safe=False
 )
