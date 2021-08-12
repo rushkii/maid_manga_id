@@ -1,0 +1,7 @@
+requests
+bs4
+lxml
+img2pdf
+humanfriendly
+motor
+python-dateutil

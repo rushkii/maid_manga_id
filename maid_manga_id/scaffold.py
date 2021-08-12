@@ -1,0 +1,2 @@
+class Maid(object):
+    pass
